@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-22T12:21:37.380Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="1AMuwe4PBwtv6C3s0TLq" version="12.1.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-22T12:46:45.047Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="GTlLJqlq3yiEje9cDyQB" version="12.1.3" type="github" pages="1">
   <diagram id="sEILYJX3dbO1V5t82YOn" name="Page-1">
     <mxGraphModel dx="1024" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,14 +20,14 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <object label="User&lt;br&gt;" id="4KHAkhtwJCvOGNMEtZGW-2">
-          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;" parent="1" vertex="1">
+          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
             <mxGeometry x="140" y="100" width="30" height="60" as="geometry"/>
           </mxCell>
         </object>
         <mxCell id="4KHAkhtwJCvOGNMEtZGW-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontFamily=Helvetica;dashed=1;" parent="1" source="4KHAkhtwJCvOGNMEtZGW-9" target="4KHAkhtwJCvOGNMEtZGW-25" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="4KHAkhtwJCvOGNMEtZGW-9" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#000000;strokeWidth=1;fontFamily=Helvetica;direction=south;" parent="1" vertex="1">
+        <mxCell id="4KHAkhtwJCvOGNMEtZGW-9" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=1;fontFamily=Helvetica;direction=south;" parent="1" vertex="1">
           <mxGeometry x="300" y="89.79998779296875" width="60" height="120" as="geometry"/>
         </mxCell>
         <mxCell id="4KHAkhtwJCvOGNMEtZGW-10" value="Smartphone" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" parent="1" vertex="1">
@@ -36,13 +36,13 @@
         <mxCell id="4KHAkhtwJCvOGNMEtZGW-15" value="Gives Commands" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="170" y="100" width="65" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="4KHAkhtwJCvOGNMEtZGW-18" value="Enjoys Music" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fontFamily=Helvetica;" parent="1" vertex="1">
+        <mxCell id="4KHAkhtwJCvOGNMEtZGW-18" value="Enjoys Music" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=1;fontFamily=Helvetica;fillColor=#dae8fc;gradientColor=#7ea6e0;" parent="1" vertex="1">
           <mxGeometry x="180" y="250" width="105" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="4KHAkhtwJCvOGNMEtZGW-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;fontFamily=Helvetica;" parent="1" source="4KHAkhtwJCvOGNMEtZGW-20" target="4KHAkhtwJCvOGNMEtZGW-18" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="4KHAkhtwJCvOGNMEtZGW-20" value="Plays Music" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fontFamily=Helvetica;" parent="1" vertex="1">
+        <mxCell id="4KHAkhtwJCvOGNMEtZGW-20" value="Plays Music" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#82b366;strokeWidth=1;fontFamily=Helvetica;gradientColor=#97d077;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="185" y="360" width="100" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="4KHAkhtwJCvOGNMEtZGW-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontFamily=Helvetica;" parent="1" source="4KHAkhtwJCvOGNMEtZGW-21" target="4KHAkhtwJCvOGNMEtZGW-20" edge="1">
@@ -70,19 +70,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4KHAkhtwJCvOGNMEtZGW-21" value="Robot" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;strokeWidth=1;fontFamily=Helvetica;" parent="1" vertex="1">
+        <mxCell id="4KHAkhtwJCvOGNMEtZGW-21" value="Robot" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#82b366;strokeWidth=1;fontFamily=Helvetica;gradientColor=#97d077;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="345" y="400" width="30" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="4KHAkhtwJCvOGNMEtZGW-23" value="Drives towards User" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fontFamily=Helvetica;" parent="1" vertex="1">
+        <mxCell id="4KHAkhtwJCvOGNMEtZGW-23" value="Drives towards User" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#82b366;strokeWidth=1;fontFamily=Helvetica;gradientColor=#97d077;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="185" y="410" width="100" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="4KHAkhtwJCvOGNMEtZGW-24" value="Uses LEDs" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fontFamily=Helvetica;" parent="1" vertex="1">
+        <mxCell id="4KHAkhtwJCvOGNMEtZGW-24" value="Uses LEDs" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#82b366;strokeWidth=1;fontFamily=Helvetica;gradientColor=#97d077;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="185" y="460" width="100" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="4KHAkhtwJCvOGNMEtZGW-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontFamily=Helvetica;" parent="1" source="4KHAkhtwJCvOGNMEtZGW-25" target="4KHAkhtwJCvOGNMEtZGW-26" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="4KHAkhtwJCvOGNMEtZGW-25" value="Process commands and sends processed commands to Raspberry" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fontFamily=Helvetica;" parent="1" vertex="1">
+        <mxCell id="4KHAkhtwJCvOGNMEtZGW-25" value="Process commands and sends processed commands to Raspberry" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=1;fontFamily=Helvetica;gradientColor=#7ea6e0;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="470" y="100" width="160" height="110" as="geometry"/>
         </mxCell>
         <mxCell id="4KHAkhtwJCvOGNMEtZGW-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontFamily=Helvetica;" parent="1" source="4KHAkhtwJCvOGNMEtZGW-26" target="4KHAkhtwJCvOGNMEtZGW-31" edge="1">
@@ -93,13 +93,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4KHAkhtwJCvOGNMEtZGW-26" value="Raspberry Pi 3&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;strokeWidth=1;fontFamily=Helvetica;" parent="1" vertex="1">
+        <mxCell id="4KHAkhtwJCvOGNMEtZGW-26" value="Raspberry Pi 3&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#b85450;strokeWidth=1;fontFamily=Helvetica;gradientColor=#ea6b66;fillColor=#f8cecc;" parent="1" vertex="1">
           <mxGeometry x="570" y="260" width="30" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="4KHAkhtwJCvOGNMEtZGW-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontFamily=Helvetica;" parent="1" source="4KHAkhtwJCvOGNMEtZGW-31" target="4KHAkhtwJCvOGNMEtZGW-21" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="4KHAkhtwJCvOGNMEtZGW-31" value="Takes commads. Starts activating the motors. Takes gives music from the storage and the matching ambient Light .&amp;nbsp; Sends all to Robot" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fontFamily=Helvetica;" parent="1" vertex="1">
+        <mxCell id="4KHAkhtwJCvOGNMEtZGW-31" value="Takes commads. Starts activating the motors. Takes gives music from the storage and the matching ambient Light .&amp;nbsp; Sends all to Robot" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#b85450;strokeWidth=1;fontFamily=Helvetica;gradientColor=#ea6b66;fillColor=#f8cecc;" parent="1" vertex="1">
           <mxGeometry x="440" y="390" width="205" height="190" as="geometry"/>
         </mxCell>
         <mxCell id="4KHAkhtwJCvOGNMEtZGW-38" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;strokeWidth=1;fontFamily=Helvetica;" parent="1" vertex="1">
