@@ -3,21 +3,11 @@ import time
 
 def init():
     gpio.setmode(gpio.BCM)
-    gpio.setup(17,gpio.OUT)
-    gpio.setup(22,gpio.OUT)
-    gpio.setup(23,gpio.OUT)
-    gpio.setup(24,gpio.OUT)
-
-def test(tf):
-    init()
-    gpio.output(17,False)    #links rückwärts
-    gpio.output(22,True)    #links vorwärts
-    gpio.output(23,False)    #rechts rückwärts
-    gpio.output(24,False)    #rechts vorwärts
-    time.sleep(tf)
-    gpio.cleanup()
-
-    
+    gpio.setup(17,gpio.OUT)     #links rückwärts
+    gpio.setup(22,gpio.OUT)     #links vorwärts
+    gpio.setup(23,gpio.OUT)     #rechts rückwärts
+    gpio.setup(24,gpio.OUT)     #rechts vorwärts
+  
 
 def forward(tf):
     init()
@@ -103,5 +93,3 @@ rightfor(2)
 rightback(2)
 spinleft(2)
 spinright(2)
-
-#test(2)
