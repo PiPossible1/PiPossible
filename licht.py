@@ -1,5 +1,8 @@
-import RPi.GPIO as gpio
+import RPi.GPIO as GPIO
 import time
+
+    # https://stackoverflow.com/questions/28762993/how-to-unittest-gpio-output-value-of-raspberry-pi-in-python
+
 
 def init():
     gpio.setmode(gpio.BCM)
@@ -33,6 +36,9 @@ def beide(tf):
     gpio.output(20,True)
     time.sleep(tf)
     gpio.cleanup()
+
+
+
 
 links(2)
 rechts(2)
